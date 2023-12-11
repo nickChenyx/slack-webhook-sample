@@ -1,0 +1,9 @@
+{
+  "name": "Slack Webhook sample",
+  "description": "Receive Slack webhooks.",
+  "repository": "",
+  "logo": "",
+  "keywords": ["slack", "webhook", "node.js", "express"],
+  "env": {
+  }
+}
